@@ -62,7 +62,8 @@ html, body {
 	display: inline-block;
 	vertical-align: top;
 	text-align: left;
-	font: normal normal medium 25px/30px Montserrat;
+	font-size: 25px;
+	font-family: 'Montserrat', sans-serif;
 	letter-spacing: 0px;
 	color: #95A4BF;
 	opacity: 1;
@@ -72,8 +73,7 @@ li {
 	display: inline-block;
 	vertical-align: top;
 	text-align: left;
-	margin-right: 64px;
-	font: normal normal medium 25px/30px Montserrat;
+	margin-right: 61px;
 	font-size: 25px;
 	font-family: 'Montserrat', sans-serif;
 	letter-spacing: 0px;
@@ -107,7 +107,6 @@ li {
 	width: 152px;
 	height: 66px;
 	margin-top: 64px;
-	font: normal normal medium 25px/30px Montserrat;
 	font-size: 25px;
 	font-family: 'Montserrat', sans-serif;
 	letter-spacing: 0px;
@@ -159,7 +158,6 @@ li {
 	height: 65px;
 	margin-top: 36px;
 	text-align: left;
-	font: normal normal medium 25px/35px Montserrat;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 25px;
 	letter-spacing: 1.2px;
